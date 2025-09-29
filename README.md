@@ -38,12 +38,18 @@ Financial distress flagged by a recent internal audit.
 All datasets were loaded into MySQL for analysis.
 
 Dataset Name	Description
-dim_ad_category.csv	Metadata about advertisement categories.
-dim_city.csv	City-level demographic and geographic details.
-fact_ad_revenue.csv	Advertisement revenue by city and category.
-fact_city_readiness.csv	City-level internet, smartphone, literacy data.
-fact_digital_pilot.csv	Engagement metrics for digital pilot program.
-fact_print_sales.csv	Print sales and circulation data.
+dim_ad_category.csv	      Metadata about advertisement categories.
+
+dim_city.csv	            City-level demographic and geographic details.
+
+fact_ad_revenue.csv	      Advertisement revenue by city and category.
+
+fact_city_readiness.csv	  City-level internet, smartphone, literacy data.
+
+fact_digital_pilot.csv     Engagement metrics for digital pilot program.
+
+fact_print_sales.csv	     Print sales and circulation data.
+
 🔧 Data Cleaning & Preprocessing
 
 Performed extensive data cleaning to ensure consistency and accuracy.
